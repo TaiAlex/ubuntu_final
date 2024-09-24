@@ -1,4 +1,0 @@
-_id,username,full_name,email,role,phone,lastlogin,disabled
-1,tai,Vu Van Tai,alextaivu@gmail.com,admin,01274906435,2024-09-23 17:56:25,False
-2,truc,Do Thanh Truc,dotruc83@gmail.com,admin,0948367264,2024-09-23 15:52:21,False
-3,nv1,NHAN VIEN 1,nv1@gmail.com,user,0147297234,None,False
