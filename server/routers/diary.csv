@@ -1,0 +1,76 @@
+0,Cây con,Trồng cây
+1,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+2,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+3,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+4,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+5,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+6,Cây con,Giữ cho đất ẩm nhưng không ngập úng. Đảm bảo môi trường xung quanh thoáng mát
+7,Cây con,Buộc gốc
+8,Cây con,Tỉa chồi. Xới bề mặt giá thể (nếu bị đóng rêu)
+9,Cây con,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+10,Cây con,Quấn ngọn
+11,Cây con,Tỉa chồi
+12,Cây con,Quấn ngọn
+13,Cây con,Đổi vị trí que tưới ra xa gốc
+14,Tăng trưởng,Tỉa chồi
+15,Tăng trưởng,Quấn ngọn
+16,Tăng trưởng,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+17,Tăng trưởng,Quấn ngọn. Tỉa chồi
+18,Tăng trưởng,Quấn ngọn
+19,Tăng trưởng,Quấn ngọn
+20,Tăng trưởng,Tỉa hết chồi từ lá thứ 8 trở xuống
+21,Tăng trưởng,Quấn ngọn
+22,"Thụ phấn, tuyển trái","Đặt ong thụ phấn. Tỉa lá thoáng gốc (4 lá, bao gồm 2 lá thật nhỏ đầu tiên)"
+23,"Thụ phấn, tuyển trái","Quấn ngọn.Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+24,"Thụ phấn, tuyển trái",Tỉa đầu nhánh
+25,"Thụ phấn, tuyển trái",Quấn ngọn. Tỉa đầu nhánh
+26,"Thụ phấn, tuyển trái",Tỉa đầu nhánh
+27,"Thụ phấn, tuyển trái","Quấn ngọn, bấm ngọn khi cây đủ 25 lá (hoặc gần đụng cáp treo). Tỉa đầu nhánh"
+28,"Thụ phấn, tuyển trái","Tuyển trái (để 2 - 3 trái/cây). Tỉa bỏ chồi không đậu trái, vàng hoa, trái méo"
+29,Nuôi trái,"Quấn ngọn, bấm ngọn khi cây đủ 25 lá (hoặc đụng cáp treo). Tuyển trái (để 2 - 3 trái/cây). Tỉa bỏ chồi không đậu trái, vàng hoa, trái méo"
+30,Nuôi trái,"Tuyển trái, để 1 - 2 trái đẹp. Tỉa bỏ hết chồi khi cây đã đậu trái. Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+31,Nuôi trái,"Tuyển trái, để 1 trái đẹp. Tỉa bỏ hết chồi"
+32,Nuôi trái,Tỉa lá thoáng gốc (2 lá)
+33,Nuôi trái,Đổi vị trí que tưới 
+34,Nuôi trái,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+35,Nuôi trái,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+36,Tạo lưới,Tỉa lá thoáng trái (1 - 3 lá)
+37,Tạo lưới,"Quét thuốc gốc, thân. Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+38,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+39,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+40,Tạo lưới,"Treo trái sát đất, sát thân"
+41,Tạo lưới,"Treo trái sát đất, sát thân"
+42,Tạo lưới,"Tỉa chồi gốc, ngọn"
+43,Tạo lưới,"Tỉa chồi gốc, ngọn"
+44,Tạo lưới,"Quét thuốc gốc, thân. Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+45,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+46,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+47,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+48,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+49,Tạo lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+50,Ổn định lưới,"Quét thuốc gốc, thân"
+51,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+52,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+53,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+54,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+55,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+56,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+57,Ổn định lưới,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+58,Tạo ngọt,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+59,Tạo ngọt,"Kiểm tra, làm sạch cỏ trong và ngoài nhà màng"
+60,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+61,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+62,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+63,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+64,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+65,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+66,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+67,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+68,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+69,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+70,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+71,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+72,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+73,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+74,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
+75,Thu hoạch,"Cắt dưa, phân loại, đóng gói"
