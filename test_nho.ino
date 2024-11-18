@@ -15,17 +15,16 @@
 #define Sequent_mode 4169      //M32
 #define Timer_1_reg_sq 4137    //D41
 #define Timer_2_reg_sq 4138    //D42
-#include <HardwareSerial.h>
 #include <TinyGsmClient.h>
-#include <PubSubClient.h>
-#include <ModbusMaster.h>
-#include <ArduinoJson.h>
-#include <esp_system.h>
-#include <iostream>
-#include <Ticker.h>
-#include <cstring>
 #include <WiFi.h>
+#include <PubSubClient.h>
+#include <ArduinoJson.h>
 #include <time.h>
+#include <cstring>
+#include <iostream>
+#include <ModbusMaster.h>
+#include <esp_system.h>
+#include <HardwareSerial.h>
 #include <math.h>
 
 // Thông tin APN của nhà mạng (Vinaphone)
@@ -40,7 +39,7 @@ const char* mqtt_username = "admin";
 const char* mqtt_password = "admin";
 const int mqtt_port = 1883;
 const char* mqtt_topics[] = {"/mode", "/motor", "/data", "/threshold", "/inv", "/timespam", "/reset", "/rs", "/wifi", "/err"};
-int num_topics = sizeof(mqtt_topics) / sizeof(mqtt_topics[0]), register_quantity = 30;
+int num_topics = sizeof(mqtt_topics) / sizeof(mqtt_topics[0]);
 
 char jsonBuffer[256], err[256];
 StaticJsonDocument<256> motor_st, doc, err_doc;
@@ -393,7 +392,6 @@ void setup() {
   node.begin(5, Serial2);
   node.preTransmission(modbusPreTransmission);
   node.postTransmission(modbusPostTransmission);
-  ticker.attach(1.0, blink);
   // currentDateTime = getFormattedTime();
   // current_time = currentDateTime.time;
   // Serial.print("Setup Time: ");
@@ -402,6 +400,7 @@ void setup() {
 
 void loop() {
   unsigned long currentMillis = millis();
+  int register_quantity = 30;
   uint8_t result;
   uint16_t CO2_value, empty_tank, full_tank, flow_value, temp, data[register_quantity];
   float temp_value, humi_value, EC_value, salt_value, TDS_value, pressure_value, values[5], airtemp, airhumi;
